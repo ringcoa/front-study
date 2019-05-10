@@ -17,3 +17,15 @@
 또는
 
     info["name"]
+
+### 표준내장객체
+
+ - Object
+ - Function
+ - Array
+ - String
+ - Boolean
+ - Number
+ - Math
+ - Date
+ - RegExp
